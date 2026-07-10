@@ -1,21 +1,9 @@
 <div align="center">
 
-```
-_____  _   _ _____  _   _  _______ _  ________ _____  
-|_   _|| | | |_   _|| \ | ||__   __| |/ /  ____|  __ \ 
-  | |  | |_| | | |  |  \| |  | |  | ' /| |__  | |__) |
-  | |  |_   _| | |  | . ` |  | |  |  < |  __| |  _  / 
- _| |_   | |  _| |_ | |\  |  | |  | . \| |____| | \ \ 
-|_____|  |_| |_____|_| \_|  |_|  |_|\_\______|_|  \_\
-                                                       
-        ___  ___  ___ _  _ _  _ _____ _   ___  __ 
-       | _ \/ _ \| __| \| | \| |_   _/_\ | _ \/ _|
-       |  _/ (_) | _|| .` | .` | | |/ _ \|  _| (_|
-       |_|  \___/|___|_|\_|_|\_| |_/_/ \_\_|  \__|
-```
+**Abhishek Verma**
 
-**Staff Engineer · ex-Amazon Tech Lead · Founder**  
-*Agentic AI · Platform Engineering · Systems Design*
+Staff Engineer · ex-Amazon Tech Lead · ex-Founder  
+Agentic AI · Platform Engineering · Systems Design
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekluv)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vrma_abhi)
@@ -30,26 +18,28 @@ _____  _   _ _____  _   _  _______ _  ________ _____
 
 </div>
 
-### 🔨 Now
+### 🔨 Building
 
-Building **[Pane](https://github.com/abhishek-verma/Pane)** — an AI-native browser powered by a custom agent framework. 2,800+ commits, open source, shipping daily.
+**[Pane](https://github.com/abhishek-verma/Pane)** — An AI-native browser powered by a custom agent framework. 2,800+ commits, open source, shipping daily.
+
+**[LoomStack](https://loomstack.co)** — Frontend deployment infrastructure for the AI era.
 
 ### ⚡ Stints
 
-**Staff Engineer** · Interface.AI *(2025–2026)*  
-Led agentic AI products, scoped 0→1 roadmaps across 40+ person org.
+**Staff Engineer** · [Interface.AI](https://interface.ai) *(2025–2026)*  
+Technical leader of a 40+ person engineering org. Led architecture and execution for agentic AI products, overseeing end-to-end lifecycle from feasibility and technical POC to pilot and production rollout. Built Auto Product Engineering — an autonomous system that develops features from specs and improves production systems using real data, delivering 5x engineering productivity. Built a high-accuracy Graph RAG knowledge platform for banking systems with 98%+ accuracy.
+
+**Founder & CTO** · [Dobr.AI](https://dobr.ai) *(2024–2025)*  
+Built an AI technical interviewing platform from scratch. Architected a cloud-native microservices platform (AWS) supporting thousands of concurrent interviews with >99.9% uptime. Built a voice-based AI interview agent with an in-house agent orchestration framework using context-driven sub-agents, achieving ~1.5s latency. Built cheating-detection using behavioral signals and dynamic validation agents. Designed a plugin-based system for extensible interview formats.
 
 **Tech Lead** · Amazon *(2020–2024)*  
-GenAI Kindle (first-gen), fraud prevention systems at Amazon scale.
-
-**Founder & CTO** · Dobr.AI *(2024–2025)*  
-AI interviewing platform: voice agents, orchestration, cheating detection.
+Led GenAI workflows for the first-generation GenAI-enabled Kindle device — LLMs, agentic workflows, content creation, and safety guardrails. Led a comprehensive fraud and abuse prevention suite for AWS's self-checkout service, addressing retail shrinkage (a $94.5B industry loss). Led the automated receipt ground-truthing project for Amazon GO, reducing associate effort by 50% and metric turnaround from 3 days to 1 day. Led teams of 4–5 SDEs across these initiatives.
 
 **Founding Engineer** · BlurbsH *(2019)*  
-First engineer. Mobile + backend. 30% latency wins.
+First engineer. Built and optimized mobile apps with modern architectural patterns. Redesigned backend message routing to reduce latency by >30%.
 
-**Founder** · Inpen *(2014–2017)*  
-3M+ users. Featured Gizmodo, Lifehacker, XDA.
+**Founder** · Inpen *(2014–2017, 3M+ users)*  
+Solo-built Android utility apps reaching 3M+ users. Featured on Gizmodo, Lifehacker, XDA.
 
 ### 🛠️ Stack
 
@@ -65,11 +55,3 @@ First engineer. Mobile + backend. 30% latency wins.
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
----
-
-<div align="center">
-
-<sub>📍 Bengaluru · Open to Staff Engineer roles (IC or people lead)</sub>
-
-</div>
