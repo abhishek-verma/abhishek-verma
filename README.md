@@ -20,9 +20,9 @@ Agentic AI · Platform Engineering · Systems Design
 
 ### 🔨 Building
 
-**[Pane](https://github.com/abhishek-verma/Pane)** — An AI-native browser powered by a custom agent framework. 2,800+ commits, open source, shipping daily.
+**[Pane](https://github.com/abhishek-verma/Pane)** — Browser with a soul. An open-source AI-native browser powered by a custom agent framework. 2,800+ commits, shipping daily.
 
-**[LoomStack](https://loomstack.co)** — Frontend deployment infrastructure for the AI era.
+**[LoomStack](https://loomstack.co)** — The orchestration layer for AI-native engineering. Autonomous execution aligned to your people, processes, and policies. Context layer, policy engine, and observability for the entire AI-driven SDLC.
 
 ### ⚡ Stints
 
