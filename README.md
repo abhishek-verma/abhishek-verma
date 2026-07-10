@@ -3,7 +3,7 @@
 **Abhishek Verma**
 
 Staff Engineer · ex-Amazon Tech Lead · ex-Founder  
-Entrepreneur & Engineering Leader with 10+ years building and scaling high-impact products and teams.  
+Entrepreneur & Engineering Leader with 9+ years building and scaling high-impact products and teams.  
 Agentic AI · Platform Engineering · Systems Design
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekluv)
