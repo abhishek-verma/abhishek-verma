@@ -39,7 +39,7 @@ Led GenAI workflows for the first-generation GenAI-enabled Kindle device — LLM
 **Founding Engineer** · BlurbsH *(2019)*  
 First engineer. Built and optimized mobile apps with modern architectural patterns. Redesigned backend message routing to reduce latency by >30%.
 
-**Founder** · Inpen *(2014–2017, 3M+ users)*  
+**Founder** · Inpen *(2014–2017)*  
 Solo-built Android utility apps reaching 3M+ users. Featured on Gizmodo, Lifehacker, XDA.
 
 ### 🛠️ Stack
