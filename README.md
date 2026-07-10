@@ -1,10 +1,7 @@
 <div align="center">
 
 **Abhishek Verma**
-
-Staff Engineer · ex-Amazon Tech Lead · ex-Founder  
 Entrepreneur & Engineering Leader with 9+ years building and scaling high-impact products and teams.  
-Agentic AI · Platform Engineering · Systems Design
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekluv)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vrma_abhi)
