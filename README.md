@@ -27,38 +27,62 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <strong>3M+</strong><br />
-      users on products I founded
+      <p>&nbsp;</p>
+      <h3>3M+</h3>
+      <p>&nbsp;</p>
+      <p>users on products I founded</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>40+</strong><br />
-      engineers led as Staff at Interface.AI
+      <p>&nbsp;</p>
+      <h3>40+</h3>
+      <p>&nbsp;</p>
+      <p>engineers led as Staff at Interface.AI</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>98%+</strong><br />
-      Graph RAG accuracy for banking
+      <p>&nbsp;</p>
+      <h3>98%+</h3>
+      <p>&nbsp;</p>
+      <p>Graph RAG accuracy for banking</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>5×</strong><br />
-      eng productivity via agentic product engineering
+      <p>&nbsp;</p>
+      <h3>5×</h3>
+      <p>&nbsp;</p>
+      <p>eng productivity via agentic product engineering</p>
+      <p>&nbsp;</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <strong>GenAI Kindle</strong><br />
-      led first-gen AI-enabled Kindle at Amazon
+      <p>&nbsp;</p>
+      <h3>GenAI Kindle</h3>
+      <p>&nbsp;</p>
+      <p>led first-gen AI-enabled Kindle at Amazon</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>&gt;99.99%</strong><br />
-      uptime on voice AI interview platform
+      <p>&nbsp;</p>
+      <h3>&gt;99.99%</h3>
+      <p>&nbsp;</p>
+      <p>uptime on voice AI interview platform</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>Amazon Fresh</strong><br />
-      led fraud &amp; abuse systems for stores
+      <p>&nbsp;</p>
+      <h3>Amazon Fresh</h3>
+      <p>&nbsp;</p>
+      <p>led fraud &amp; abuse systems for stores</p>
+      <p>&nbsp;</p>
     </td>
     <td align="center" width="25%">
-      <strong>Featured on</strong><br />
-      Gizmodo · Lifehacker · XDA
+      <p>&nbsp;</p>
+      <h3>Featured on</h3>
+      <p>&nbsp;</p>
+      <p>Gizmodo · Lifehacker · XDA</p>
+      <p>&nbsp;</p>
     </td>
   </tr>
 </table>
