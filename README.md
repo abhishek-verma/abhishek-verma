@@ -236,22 +236,24 @@ I write about AI engineering, platforms, and building in public on <a href="http
 
 <table width="100%">
   <tr>
-    <td>
+    <td width="28%" valign="middle">
       <a href="https://jrnull.substack.com/p/microsoft-killed-claude-code-for">
-        <img width="100%" src="https://substackcdn.com/image/fetch/$s_!et78!,w_1200,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d28bc7e-dc5f-454a-be96-5f0fe6bbd18d_1848x1228.png" alt="Microsoft Claude Code post" />
+        <img width="220" src="https://substackcdn.com/image/fetch/$s_!et78!,w_440,h_280,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d28bc7e-dc5f-454a-be96-5f0fe6bbd18d_1848x1228.png" alt="Microsoft Claude Code post" />
       </a>
-      <br />
+    </td>
+    <td valign="middle">
       <strong><a href="https://jrnull.substack.com/p/microsoft-killed-claude-code-for">Microsoft killed Claude Code for 100,000 engineers</a></strong>
       <br />
       The token bills are the symptom. The real problem is coordination.
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="28%" valign="middle">
       <a href="https://jrnull.substack.com/p/architecting-llm-systems-for-scale">
-        <img width="100%" src="https://substackcdn.com/image/fetch/$s_!tS-8!,w_1200,h_400,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde104ca-b227-4520-8ef0-9a4b8c7b767c_978x756.png" alt="Architecting LLM systems post" />
+        <img width="220" src="https://substackcdn.com/image/fetch/$s_!tS-8!,w_440,h_280,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde104ca-b227-4520-8ef0-9a4b8c7b767c_978x756.png" alt="Architecting LLM systems post" />
       </a>
-      <br />
+    </td>
+    <td valign="middle">
       <strong><a href="https://jrnull.substack.com/p/architecting-llm-systems-for-scale">Architecting LLM systems for scale</a></strong>
       <br />
       Selective routing and LLM–SLM collaboration for cost-efficient AI infra.
