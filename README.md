@@ -4,7 +4,7 @@
 
 Bengaluru, India
 
-I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound — agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
+I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound - agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
 
 [LinkedIn](https://linkedin.com/in/abhi-vrma) · [X](https://x.com/vrma_abhi) · [Blog](https://substack.com/@vrabhi) · [Stack Overflow](https://stackoverflow.com/users/3739837) · [Email](mailto:inpen.abhi@gmail.com)
 
