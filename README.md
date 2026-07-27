@@ -96,12 +96,12 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="middle">
       <a href="https://github.com/abhishek-verma/Pane">
         <img src="https://raw.githubusercontent.com/abhishek-verma/Pane/main/assets/branding/png/pane-poster-1280.png" alt="Pane — a browser with a soul" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h3><a href="https://github.com/abhishek-verma/Pane">Pane</a></h3>
       Browser with a soul. Open-source Chromium fork where the agent is native to your work: persona, memory, skills, and profiles on your machine. No Pane account. No Pane cloud.
       <br/><br/>
