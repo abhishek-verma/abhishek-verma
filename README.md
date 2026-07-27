@@ -78,47 +78,67 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 <table width="100%">
   <tr>
     <td>
-      <br />
-      <img src="./assets/logos/dobr.png" height="16" alt="" /> <strong><a href="https://dobr.ai">Dobr.AI</a></strong> · Founder &amp; CTO · <code>2024 – Present</code>
-      <br /><br />
-      Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
-      <br />
+      <p>
+        <img src="./assets/logos/dobr.png" height="16" alt="" />
+        <strong><a href="https://dobr.ai">Dobr.AI</a></strong>
+        · Founder &amp; CTO
+        · <code>2024 – Present</code>
+      </p>
+      <p>
+        Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
+      </p>
     </td>
   </tr>
   <tr>
     <td>
-      <br />
-      <img src="./assets/logos/interface.png" height="16" alt="" /> <strong><a href="https://interface.ai">Interface.AI</a></strong> · Staff Software Engineer · <code>2025 – 2026</code>
-      <br /><br />
-      Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
-      <br />
+      <p>
+        <img src="./assets/logos/interface.png" height="16" alt="" />
+        <strong><a href="https://interface.ai">Interface.AI</a></strong>
+        · Staff Software Engineer
+        · <code>2025 – 2026</code>
+      </p>
+      <p>
+        Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
+      </p>
     </td>
   </tr>
   <tr>
     <td>
-      <br />
-      <img src="./assets/logos/amazon.png" height="16" alt="" /> <strong>Amazon</strong> · Tech Lead · <code>2020 – 2024</code>
-      <br /><br />
-      Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud &amp; abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
-      <br />
+      <p>
+        <img src="./assets/logos/amazon.png" height="16" alt="" />
+        <strong>Amazon</strong>
+        · Tech Lead
+        · <code>2020 – 2024</code>
+      </p>
+      <p>
+        Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud &amp; abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
+      </p>
     </td>
   </tr>
   <tr>
     <td>
-      <br />
-      <img src="./assets/logos/blurbsh.png" height="16" alt="" /> <strong>Blurbsh</strong> · Founding Engineer · <code>2019</code>
-      <br /><br />
-      First engineer. Mobile apps and backend routing redesign (&gt;30% latency reduction).
-      <br />
+      <p>
+        <img src="./assets/logos/blurbsh.png" height="16" alt="" />
+        <strong>Blurbsh</strong>
+        · Founding Engineer
+        · <code>2019</code>
+      </p>
+      <p>
+        First engineer. Mobile apps and backend routing redesign (&gt;30% latency reduction).
+      </p>
     </td>
   </tr>
   <tr>
     <td>
-      <br />
-      <img src="./assets/logos/inpen.png" height="16" alt="" /> <strong>Inpen</strong> · Founder · <code>2014 – 2017</code>
-      <br /><br />
-      Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
-      <br />
+      <p>
+        <img src="./assets/logos/inpen.png" height="16" alt="" />
+        <strong>Inpen</strong>
+        · Founder
+        · <code>2014 – 2017</code>
+      </p>
+      <p>
+        Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
+      </p>
     </td>
   </tr>
 </table>
