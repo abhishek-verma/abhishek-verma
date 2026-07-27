@@ -36,9 +36,48 @@ First engineer. Built and optimized mobile apps with modern architectural patter
 **Founder** · Inpen *(2014–2017)*  
 Solo-built Android utility apps reaching 3M+ users. Featured on Gizmodo, Lifehacker, XDA.
 
-### Expertise
+### 🛠️ Stack
+<!-- Languages -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**AI Engineering** · Agentic Systems · Context Engineering · RAG · MCP
-**Distributed Systems** · Go · Spring Boot · Kafka · PostgreSQL
-**Cloud Platforms** · AWS · Kubernetes · Terraform · Docker
-**Developer Platforms** · CI/CD · GitHub Actions · Observability
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<!-- Backend -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+<!-- AI -->
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![Agentic_AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat-square)
+![Semantic_Search](https://img.shields.io/badge/Semantic_Search-0A9396?style=flat-square)
+![Vector_Databases](https://img.shields.io/badge/Vector_DBs-00A67E?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=flat-square)
+![Context_Engineering](https://img.shields.io/badge/Context_Engineering-3F51B5?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-673AB7?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square)
+
+<!-- Infrastructure -->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+<!-- Data -->
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
