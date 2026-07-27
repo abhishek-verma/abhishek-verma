@@ -1,14 +1,12 @@
 <div align="center">
-  
+
 # Abhishek Verma
 
 **Staff Engineer · Founder · AI Platforms**
 
 Bengaluru, India
 
-<p>
-<a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://x.com/vrma_abhi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="https://substack.com/@vrabhi"><img src="https://img.shields.io/badge/Blog-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Blog"></a>&nbsp;<a href="https://stackoverflow.com/users/3739837"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>&nbsp;<a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<table align="center"><tr><td><a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td><td><a href="https://x.com/vrma_abhi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a></td><td><a href="https://substack.com/@vrabhi"><img src="https://img.shields.io/badge/Blog-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Blog"></a></td><td><a href="https://stackoverflow.com/users/3739837"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a></td><td><a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></td></tr></table>
 
 </div>
 
@@ -153,20 +151,25 @@ Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo,
 
 ## Stack
 
-**Languages**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+**Languages**
 
-**AI**  
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs">&nbsp;<img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" alt="Agentic Systems">&nbsp;<img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" alt="Voice AI">&nbsp;<img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" alt="Graph RAG">&nbsp;<img src="https://img.shields.io/badge/Evals-111827?style=flat-square" alt="Evals">&nbsp;<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
+<table><tr><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></td><td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td><td><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"></td></tr></table>
 
-**Backend**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">&nbsp;<img src="https://img.shields.io/badge/Event--driven-111827?style=flat-square" alt="Event-driven">
+**AI**
 
-**Cloud**  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">&nbsp;<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+<table><tr><td><img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs"></td><td><img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" alt="Agentic Systems"></td><td><img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" alt="Voice AI"></td><td><img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" alt="Graph RAG"></td><td><img src="https://img.shields.io/badge/Evals-111827?style=flat-square" alt="Evals"></td><td><img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG"></td></tr></table>
 
-**Frontend**  
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+**Backend**
+
+<table><tr><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"></td><td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></td><td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"></td><td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></td><td><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"></td><td><img src="https://img.shields.io/badge/Event--driven-111827?style=flat-square" alt="Event-driven"></td></tr></table>
+
+**Cloud**
+
+<table><tr><td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"></td><td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></td><td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"></td><td><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"></td></tr></table>
+
+**Frontend**
+
+<table><tr><td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></td><td><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"></td></tr></table>
 
 ---
 
@@ -213,6 +216,6 @@ Open to **Staff Engineer** and **Director of Engineering** roles where deep IC w
 
 <br />
 
-<p align="center"><a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+<table align="center"><tr><td><a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></td><td><a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td></tr></table>
 
 </div>
