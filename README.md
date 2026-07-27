@@ -24,49 +24,41 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 ## Impact at a glance
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><br />
-      <h3>3M+</h3>
-      <p>users on products I founded</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>3M+</strong><br />
+      users on products I founded
     </td>
-    <td align="center" width="25%"><br />
-      <h3>40+</h3>
-      <p>engineers led as Staff at Interface.AI</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>40+</strong><br />
+      engineers led as Staff at Interface.AI
     </td>
-    <td align="center" width="25%"><br />
-      <h3>98%+</h3>
-      <p>Graph RAG accuracy for banking</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>98%+</strong><br />
+      Graph RAG accuracy for banking
     </td>
-    <td align="center" width="25%"><br />
-      <h3>5×</h3>
-      <p>eng productivity via agentic product engineering</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>5×</strong><br />
+      eng productivity via agentic product engineering
     </td>
   </tr>
   <tr>
-    <td align="center"><br />
-      <h3>GenAI Kindle</h3>
-      <p>led first-gen AI-enabled Kindle at Amazon</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>GenAI Kindle</strong><br />
+      led first-gen AI-enabled Kindle at Amazon
     </td>
-    <td align="center"><br />
-      <h3>>99.99%</h3>
-      <p>uptime on voice AI interview platform</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>&gt;99.99%</strong><br />
+      uptime on voice AI interview platform
     </td>
-    <td align="center"><br />
-      <h3>Amazon Fresh</h3>
-      <p>led fraud & abuse systems for stores</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>Amazon Fresh</strong><br />
+      led fraud &amp; abuse systems for stores
     </td>
-    <td align="center"><br />
-      <h3>Featured on</h3>
-      <p>Gizmodo · Lifehacker · XDA</p>
-      <br />
+    <td align="center" width="25%">
+      <strong>Featured on</strong><br />
+      Gizmodo · Lifehacker · XDA
     </td>
   </tr>
 </table>
