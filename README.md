@@ -60,10 +60,10 @@ Solo-built Android utilities to **3M+** users. Featured on Gizmodo, Lifehacker, 
 
 ### Stack
 
-**Languages** — Python · TypeScript · Java · Kotlin  
-**AI** — LLMs · Agentic systems · Voice AI · Graph RAG · Evals · RAG 
-**Backend** — Node.js · FastAPI · SpringBoot · PostgreSQL · Redis · Event-driven systems · The usual rest  
-**Cloud** — AWS · Docker · Kubernetes · Terraform · The usual rest 
+**Languages** - Python · TypeScript · Java · Kotlin  
+**AI** - LLMs · Agentic systems · Voice AI · Graph RAG · Evals · RAG 
+**Backend** - Node.js · FastAPI · SpringBoot · PostgreSQL · Redis · Event-driven systems · The usual rest  
+**Cloud** - AWS · Docker · Kubernetes · Terraform · The usual rest 
 
 ---
 
