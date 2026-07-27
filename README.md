@@ -1,6 +1,7 @@
 # Abhishek Verma
 
 **Staff Engineer · Founder · AI Platforms**
+
 Bengaluru, India
 
 I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound — agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
@@ -15,8 +16,8 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 |---|---|
 | **3M+** users on consumer products I founded | **40+** engineers led as Staff at Interface.AI |
 | **98%+** Graph RAG accuracy for banking systems | **5×** engineering productivity via agentic product engineering |
-| **GenAI Kindle** — first-gen AI-enabled Kindle at Amazon | **>99.9%** uptime on voice AI interview platform |
-| Amazon Fresh **fraud & abuse** suite (self-checkout) | Featured on **Gizmodo**, Lifehacker, XDA |
+| **GenAI Kindle** — led first-gen AI-enabled Kindle at Amazon | **>99.99%** uptime on voice AI interview platform |
+| Led **fraud & abuse** at Amazon Fresh Stores | Featured on **Gizmodo**, Lifehacker, XDA |
 
 ---
 
@@ -60,9 +61,9 @@ Solo-built Android utilities to **3M+** users. Featured on Gizmodo, Lifehacker, 
 ### Stack
 
 **Languages** — Python · TypeScript · Java · Kotlin  
-**AI** — LLMs · RAG · Agentic systems · Voice AI · Graph RAG  
-**Backend** — Node.js · FastAPI · PostgreSQL · Redis · Event-driven systems  
-**Cloud** — AWS · Docker · Kubernetes · Terraform
+**AI** — LLMs · Agentic systems · Voice AI · Graph RAG · Evals · RAG 
+**Backend** — Node.js · FastAPI · SpringBoot · PostgreSQL · Redis · Event-driven systems · The usual rest  
+**Cloud** — AWS · Docker · Kubernetes · Terraform · The usual rest 
 
 ---
 
