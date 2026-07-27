@@ -64,29 +64,34 @@ Over 9 years I've built products from zero to millions of users, led AI systems 
 ---
 
 ## Experience
-![Dobr.AI](./assets/logos/dobr.png) [**Dobr.AI**](https://dobr.ai) · Founder & CTO · `2024 – Present`
+
+<img src="./assets/logos/dobr.png" width="20" height="20" align="absmiddle" alt=""> <a href="https://dobr.ai"><strong>Dobr.AI</strong></a> · Founder &amp; CTO · <code>2024 – Present</code>
 
 Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
 
 ---
-![Interface.AI](./assets/logos/interface.png) [**Interface.AI**](https://interface.ai) · Staff Software Engineer · `2025 – 2026`
+
+<img src="./assets/logos/interface.png" width="20" height="20" align="absmiddle" alt=""> <a href="https://interface.ai"><strong>Interface.AI</strong></a> · Staff Software Engineer · <code>2025 – 2026</code>
 
 Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
 
 ---
-![Amazon](./assets/logos/amazon.png) **Amazon** · Tech Lead · `2020 – 2024`
 
-Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud & abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
+<img src="./assets/logos/amazon.png" width="20" height="20" align="absmiddle" alt=""> <strong>Amazon</strong> · Tech Lead · <code>2020 – 2024</code>
 
----
-![Blurbsh](./assets/logos/blurbsh.png) **Blurbsh** · Founding Engineer · `2019`
-
-First engineer. Mobile apps and backend routing redesign (>30% latency reduction).
+Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud &amp; abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
 
 ---
-![Inpen](./assets/logos/inpen.png) **Inpen** · Founder · `2014 – 2017`
 
-Solo-built Android utilities to **3M+** users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
+<img src="./assets/logos/blurbsh.png" width="20" height="20" align="absmiddle" alt=""> <strong>Blurbsh</strong> · Founding Engineer · <code>2019</code>
+
+First engineer. Mobile apps and backend routing redesign (&gt;30% latency reduction).
+
+---
+
+<img src="./assets/logos/inpen.png" width="20" height="20" align="absmiddle" alt=""> <strong>Inpen</strong> · Founder · <code>2014 – 2017</code>
+
+Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
 
 ---
 
