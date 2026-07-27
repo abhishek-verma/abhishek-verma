@@ -1,16 +1,14 @@
 <div align="center">
-
+  
 # Abhishek Verma
 
 **Staff Engineer · Founder · AI Platforms**
 
 Bengaluru, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vrma_abhi)
-[![Blog](https://img.shields.io/badge/Blog-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@vrabhi)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3739837)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
+<p>
+<a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://x.com/vrma_abhi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>&nbsp;<a href="https://substack.com/@vrabhi"><img src="https://img.shields.io/badge/Blog-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Blog"></a>&nbsp;<a href="https://stackoverflow.com/users/3739837"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>&nbsp;<a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
@@ -156,19 +154,19 @@ Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo,
 ## Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
 
 **AI**  
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square) ![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square) ![Voice AI](https://img.shields.io/badge/Voice_AI-111827?style=flat-square) ![Graph RAG](https://img.shields.io/badge/Graph_RAG-111827?style=flat-square) ![Evals](https://img.shields.io/badge/Evals-111827?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs">&nbsp;<img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" alt="Agentic Systems">&nbsp;<img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" alt="Voice AI">&nbsp;<img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" alt="Graph RAG">&nbsp;<img src="https://img.shields.io/badge/Evals-111827?style=flat-square" alt="Evals">&nbsp;<img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG">
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Event-driven](https://img.shields.io/badge/Event--driven-111827?style=flat-square)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">&nbsp;<img src="https://img.shields.io/badge/Event--driven-111827?style=flat-square" alt="Event-driven">
 
 **Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">&nbsp;<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">&nbsp;<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 
 ---
 
@@ -215,7 +213,6 @@ Open to **Staff Engineer** and **Director of Engineering** roles where deep IC w
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma)
+<p align="center"><a href="mailto:inpen.abhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://linkedin.com/in/abhi-vrma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 </div>
