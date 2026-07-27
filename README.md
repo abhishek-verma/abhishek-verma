@@ -8,11 +8,7 @@ Bengaluru, India
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vrma_abhi)
-[![Blog](https://img.shields.io/badge/Blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@vrabhi)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3739837)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vrma_abhi) [![Blog](https://img.shields.io/badge/Blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@vrabhi) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3739837) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
 
 </div>
 
@@ -272,44 +268,27 @@ Over 9 years I've built products from zero to millions of users, led AI systems 
 
 <p>
   <strong>Languages</strong><br />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 <p>
   <strong>AI</strong><br />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" alt="Agentic Systems" />
-  <img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" alt="Voice AI" />
-  <img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" alt="Graph RAG" />
-  <img src="https://img.shields.io/badge/Evals-111827?style=flat-square" alt="Evals" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs" /> <img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" alt="Agentic Systems" /> <img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" alt="Voice AI" /> <img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" alt="Graph RAG" /> <img src="https://img.shields.io/badge/Evals-111827?style=flat-square" alt="Evals" /> <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" alt="RAG" />
 </p>
 
 <p>
   <strong>Backend</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Event--driven-111827?style=flat-square" alt="Event-driven" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Event--driven-111827?style=flat-square" alt="Event-driven" />
 </p>
 
 <p>
   <strong>Cloud</strong><br />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
 <p>
   <strong>Frontend</strong><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 ---
