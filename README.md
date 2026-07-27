@@ -28,37 +28,37 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
   <tr>
     <td align="center" width="25%">
       <h3>3M+</h3>
-      <sub>users on products I founded</sub>
+      <p>users on products I founded</p>
     </td>
     <td align="center" width="25%">
       <h3>40+</h3>
-      <sub>engineers led as Staff at Interface.AI</sub>
+      <p>engineers led as Staff at Interface.AI</p>
     </td>
     <td align="center" width="25%">
       <h3>98%+</h3>
-      <sub>Graph RAG accuracy for banking</sub>
+      <p>Graph RAG accuracy for banking</p>
     </td>
     <td align="center" width="25%">
       <h3>5×</h3>
-      <sub>eng productivity via agentic product engineering</sub>
+      <p>eng productivity via agentic product engineering</p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>GenAI Kindle</h3>
-      <sub>led first-gen AI-enabled Kindle at Amazon</sub>
+      <p>led first-gen AI-enabled Kindle at Amazon</p>
     </td>
     <td align="center">
       <h3>>99.99%</h3>
-      <sub>uptime on voice AI interview platform</sub>
+      <p>uptime on voice AI interview platform</p>
     </td>
     <td align="center">
       <h3>Amazon Fresh</h3>
-      <sub>led fraud & abuse systems for stores</sub>
+      <p>led fraud & abuse systems for stores</p>
     </td>
     <td align="center">
       <h3>Press</h3>
-      <sub>Gizmodo · Lifehacker · XDA</sub>
+      <p>Gizmodo · Lifehacker · XDA</p>
     </td>
   </tr>
 </table>
