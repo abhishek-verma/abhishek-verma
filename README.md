@@ -53,8 +53,8 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
       <sub>uptime on voice AI interview platform</sub>
     </td>
     <td align="center">
-      <h3>Fraud & Abuse</h3>
-      <sub>led systems at Amazon Fresh Stores</sub>
+      <h3>Amazon Fresh</h3>
+      <sub>led fraud & abuse systems for stores</sub>
     </td>
     <td align="center">
       <h3>Press</h3>
