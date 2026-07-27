@@ -11,7 +11,8 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 ---
 
 ### Impact at a glance
-
+||||
+| --- | --- | --- |
 | **3M+** users on consumer products I founded | **40+** engineers led as Staff at Interface.AI |
 | **98%+** Graph RAG accuracy for banking systems | **5×** engineering productivity via agentic product engineering |
 | **GenAI Kindle** — led first-gen AI-enabled Kindle at Amazon | **>99.99%** uptime on voice AI interview platform |
