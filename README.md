@@ -1,80 +1,175 @@
+<div align="center">
+
 # Abhishek Verma
 
 **Staff Engineer · Founder · AI Platforms**
 
 Bengaluru, India
 
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vrma_abhi)
+[![Blog](https://img.shields.io/badge/Blog-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@vrabhi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3739837)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
+
+</div>
+
+<br />
+
 I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound - agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
 
-[LinkedIn](https://linkedin.com/in/abhi-vrma) · [X](https://x.com/vrma_abhi) · [Blog](https://substack.com/@vrabhi) · [Stack Overflow](https://stackoverflow.com/users/3739837) · [Email](mailto:inpen.abhi@gmail.com)
+---
+
+## Impact at a glance
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>3M+</h3>
+      <sub>users on products I founded</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>40+</h3>
+      <sub>engineers led as Staff at Interface.AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>98%+</h3>
+      <sub>Graph RAG accuracy for banking</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>5×</h3>
+      <sub>eng productivity via agentic product engineering</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>GenAI Kindle</h3>
+      <sub>led first-gen AI-enabled Kindle at Amazon</sub>
+    </td>
+    <td align="center">
+      <h3>>99.99%</h3>
+      <sub>uptime on voice AI interview platform</sub>
+    </td>
+    <td align="center">
+      <h3>Fraud & Abuse</h3>
+      <sub>led systems at Amazon Fresh Stores</sub>
+    </td>
+    <td align="center">
+      <h3>Press</h3>
+      <sub>Gizmodo · Lifehacker · XDA</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Impact at a glance
+## Experience
 
-| | |
-|---|---|
-| **3M+** users on consumer products I founded | **40+** engineers led as Staff at Interface.AI |
-| **98%+** Graph RAG accuracy for banking systems | **5×** engineering productivity via agentic product engineering |
-| **GenAI Kindle** — led first-gen AI-enabled Kindle at Amazon | **>99.99%** uptime on voice AI interview platform |
-| Led **fraud & abuse** at Amazon Fresh Stores | Featured on **Gizmodo**, Lifehacker, XDA |
-
----
-
-### Experience
-
-**Founder & CTO** · [Dobr.AI](https://dobr.ai) · 2024 – Present  
-Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
-
-**Staff Software Engineer** · [Interface.AI](https://interface.ai) · 2025 – 2026  
-Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
-
-**Tech Lead** · Amazon · 2020 – 2024  
-Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud & abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
-
-**Founding Engineer** · Blurbsh · 2019  
-First engineer. Mobile apps and backend routing redesign (>30% latency reduction).
-
-**Founder** · Inpen · 2014 – 2017  
-Solo-built Android utilities to **3M+** users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
+<table>
+  <tr>
+    <td width="28%"><strong>Founder & CTO</strong><br/><a href="https://dobr.ai">Dobr.AI</a><br/><sub>2024 – Present</sub></td>
+    <td>Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.</td>
+  </tr>
+  <tr>
+    <td><strong>Staff Software Engineer</strong><br/><a href="https://interface.ai">Interface.AI</a><br/><sub>2025 – 2026</sub></td>
+    <td>Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).</td>
+  </tr>
+  <tr>
+    <td><strong>Tech Lead</strong><br/>Amazon<br/><sub>2020 – 2024</sub></td>
+    <td>Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud & abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.</td>
+  </tr>
+  <tr>
+    <td><strong>Founding Engineer</strong><br/>Blurbsh<br/><sub>2019</sub></td>
+    <td>First engineer. Mobile apps and backend routing redesign (>30% latency reduction).</td>
+  </tr>
+  <tr>
+    <td><strong>Founder</strong><br/>Inpen<br/><sub>2014 – 2017</sub></td>
+    <td>Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.</td>
+  </tr>
+</table>
 
 ---
 
-### Building
+## Building
 
-**[Pane](https://github.com/abhishek-verma/Pane)** — Browser with a soul. Open-source Chromium fork where the agent is native to your work: persona, memory, skills, and profiles on your machine. No Pane account. No Pane cloud.
-
-**[LoomStack](https://loomstack.co)** — Orchestration layer for AI-native engineering. Context, policy, and observability across the AI-driven SDLC. Early-stage exploration.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://github.com/abhishek-verma/Pane">
+        <img src="https://raw.githubusercontent.com/abhishek-verma/Pane/main/assets/branding/png/pane-poster-1280.png" alt="Pane — a browser with a soul" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/abhishek-verma/Pane">Pane</a></h3>
+      Browser with a soul. Open-source Chromium fork where the agent is native to your work: persona, memory, skills, and profiles on your machine. No Pane account. No Pane cloud.
+      <br/><br/>
+      <h3><a href="https://loomstack.co">LoomStack</a></h3>
+      Orchestration layer for AI-native engineering. Context, policy, and observability across the AI-driven SDLC. Early-stage exploration.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Where I add the most leverage
+## Where I add the most leverage
 
-- Agentic systems & voice AI
-- LLM / RAG platforms (including Graph RAG)
-- Platform engineering & event-driven backends
-- Fraud, trust & safety at scale
-- 0→1 product + Staff-level technical strategy
+```text
+Agentic systems & voice AI
+LLM / RAG platforms (including Graph RAG)
+Platform engineering & event-driven backends
+Fraud, trust & safety at scale
+0→1 product + Staff-level technical strategy
+```
 
 ---
 
-### Stack
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,java,kotlin,nodejs,fastapi,postgres,redis,aws,docker,kubernetes,terraform,react,nextjs&perline=7" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Evals-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event--Driven-111827?style=flat-square" />
+</p>
+
+<details>
+<summary><strong>Full stack breakdown</strong></summary>
+<br/>
 
 **Languages** - Python · TypeScript · Java · Kotlin  
-**AI** - LLMs · Agentic systems · Voice AI · Graph RAG · Evals · RAG 
+**AI** - LLMs · Agentic systems · Voice AI · Graph RAG · Evals · RAG  
 **Backend** - Node.js · FastAPI · SpringBoot · PostgreSQL · Redis · Event-driven systems · The usual rest  
-**Cloud** - AWS · Docker · Kubernetes · Terraform · The usual rest 
+**Cloud** - AWS · Docker · Kubernetes · Terraform · The usual rest
+
+</details>
 
 ---
 
-### Writing
+## Writing
 
 I write about AI engineering, platforms, and building in public on [Substack](https://substack.com/@vrabhi).
 
 ---
 
-### Let's talk
+<div align="center">
 
-Open to **Staff Engineer** and **Director of Engineering** roles where deep IC work, platform architecture, and technical strategy matter — especially AI-native and platform-heavy teams.
+## Let's talk
 
-[inpen.abhi@gmail.com](mailto:inpen.abhi@gmail.com) · [linkedin.com/in/abhi-vrma](https://linkedin.com/in/abhi-vrma)
+Open to **Staff Engineer** and **Director of Engineering** roles where deep IC work, platform architecture, and technical strategy matter - especially AI-native and platform-heavy teams.
+
+<br />
+
+[![Email](https://img.shields.io/badge/inpen.abhi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inpen.abhi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/abhi--vrma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-vrma)
+
+</div>
