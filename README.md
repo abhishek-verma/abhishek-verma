@@ -16,7 +16,7 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 | **3M+** users on consumer products I founded | **40+** engineers led as Staff at Interface.AI |
 | **98%+** Graph RAG accuracy for banking systems | **5×** engineering productivity via agentic product engineering |
 | **GenAI Kindle** — first-gen AI-enabled Kindle at Amazon | **>99.9%** uptime on voice AI interview platform |
-| **$94.5B** retail-shrinkage problem space (Amazon Fresh fraud) | **3M+** users · Gizmodo, Lifehacker, XDA |
+| Amazon Fresh **fraud & abuse** suite (self-checkout) | Featured on **Gizmodo**, Lifehacker, XDA |
 
 ---
 
