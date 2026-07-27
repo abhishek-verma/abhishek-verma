@@ -18,7 +18,7 @@ Bengaluru, India
 
 <br />
 
-I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound - agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
+Over 9 years I've built products from zero to millions of users, led AI systems at Amazon scale, and run engineering orgs as both Staff Engineer and founder. I care about platforms that compound - agentic systems, RAG that holds up in production, and architecture that teams can actually ship on.
 
 ---
 
