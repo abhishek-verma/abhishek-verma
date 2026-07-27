@@ -69,47 +69,71 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 <table>
   <tr>
-    <td width="28%" valign="top">
-      <img src="./assets/logos/dobr.png" height="18" alt="Dobr.AI" />
-      <br/><strong>Founder & CTO</strong>
-      <br/><a href="https://dobr.ai">Dobr.AI</a>
-      <br/><sub>2024 – Present</sub>
+    <td>
+      <p>
+        <img src="./assets/logos/dobr.png" height="20" alt="" />
+        &nbsp;<strong><a href="https://dobr.ai">Dobr.AI</a></strong>
+        &nbsp;·&nbsp; Founder &amp; CTO
+        &nbsp;·&nbsp; <code>2024 – Present</code>
+      </p>
+      Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
     </td>
-    <td valign="top">Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td valign="top">
-      <img src="./assets/logos/interface.png" height="18" alt="Interface.AI" />
-      <br/><strong>Staff Software Engineer</strong>
-      <br/><a href="https://interface.ai">Interface.AI</a>
-      <br/><sub>2025 – 2026</sub>
+    <td>
+      <p>
+        <img src="./assets/logos/interface.png" height="20" alt="" />
+        &nbsp;<strong><a href="https://interface.ai">Interface.AI</a></strong>
+        &nbsp;·&nbsp; Staff Software Engineer
+        &nbsp;·&nbsp; <code>2025 – 2026</code>
+      </p>
+      Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
     </td>
-    <td valign="top">Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td valign="top">
-      <img src="./assets/logos/amazon.png" height="18" alt="Amazon" />
-      <br/><strong>Tech Lead</strong>
-      <br/>Amazon
-      <br/><sub>2020 – 2024</sub>
+    <td>
+      <p>
+        <img src="./assets/logos/amazon.png" height="20" alt="" />
+        &nbsp;<strong>Amazon</strong>
+        &nbsp;·&nbsp; Tech Lead
+        &nbsp;·&nbsp; <code>2020 – 2024</code>
+      </p>
+      Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud &amp; abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
     </td>
-    <td valign="top">Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud & abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td valign="top">
-      <strong>Founding Engineer</strong>
-      <br/>Blurbsh
-      <br/><sub>2019</sub>
+    <td>
+      <p>
+        <img src="./assets/logos/blurbsh.png" height="20" alt="" />
+        &nbsp;<strong>Blurbsh</strong>
+        &nbsp;·&nbsp; Founding Engineer
+        &nbsp;·&nbsp; <code>2019</code>
+      </p>
+      First engineer. Mobile apps and backend routing redesign (&gt;30% latency reduction).
     </td>
-    <td valign="top">First engineer. Mobile apps and backend routing redesign (>30% latency reduction).</td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td valign="top">
-      <strong>Founder</strong>
-      <br/>Inpen
-      <br/><sub>2014 – 2017</sub>
+    <td>
+      <p>
+        <img src="./assets/logos/inpen.png" height="20" alt="" />
+        &nbsp;<strong>Inpen</strong>
+        &nbsp;·&nbsp; Founder
+        &nbsp;·&nbsp; <code>2014 – 2017</code>
+      </p>
+      Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
     </td>
-    <td valign="top">Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.</td>
   </tr>
 </table>
 
@@ -123,14 +147,18 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
       <a href="https://github.com/abhishek-verma/Pane">
         <img src="https://raw.githubusercontent.com/abhishek-verma/Pane/main/assets/branding/png/pane-poster-1280.png" alt="Pane — a browser with a soul" />
       </a>
-      <h3><a href="https://github.com/abhishek-verma/Pane">Pane</a></h3>
+      <p></p>
+      <strong><a href="https://github.com/abhishek-verma/Pane">Pane</a></strong>
+      <br/><br/>
       Browser with a soul. Open-source Chromium fork where the agent is native to your work: persona, memory, skills, and profiles on your machine. No Pane account. No Pane cloud.
     </td>
     <td width="50%" valign="top">
       <a href="https://loomstack.co">
         <img src="./assets/loomstack-poster-1280.png" alt="LoomStack — orchestration for AI-native engineering" />
       </a>
-      <h3><a href="https://loomstack.co">LoomStack</a></h3>
+      <p></p>
+      <strong><a href="https://loomstack.co">LoomStack</a></strong>
+      <br/><br/>
       Orchestration layer for AI-native engineering. Context, policy, and observability across the AI-driven SDLC. Early-stage exploration.
     </td>
   </tr>
@@ -143,28 +171,46 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Agentic systems & voice AI</strong><br/>
+      <br/>
+      <strong>Agentic systems &amp; voice AI</strong>
+      <br/><br/>
       End-to-end agents that hold up in production, not demos.
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
-      <strong>LLM / RAG platforms</strong><br/>
+      <br/>
+      <strong>LLM / RAG platforms</strong>
+      <br/><br/>
       Graph RAG, evals, and pipelines tuned for real accuracy.
+      <br/><br/>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Platform engineering</strong><br/>
+      <br/>
+      <strong>Platform engineering</strong>
+      <br/><br/>
       Event-driven backends and systems teams can ship on.
+      <br/><br/>
     </td>
     <td valign="top">
-      <strong>Fraud, trust & safety</strong><br/>
+      <br/>
+      <strong>Fraud, trust &amp; safety</strong>
+      <br/><br/>
       Detection and abuse systems at retail / marketplace scale.
+      <br/><br/>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td colspan="2" valign="top">
-      <strong>0→1 product + Staff-level strategy</strong><br/>
+    <td>
+      <br/>
+      <strong>0→1 product + Staff-level strategy</strong>
+      <br/><br/>
       Founder depth with architecture, tradeoffs, and team leverage.
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -175,41 +221,71 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 <table>
   <tr>
-    <td width="18%" valign="middle"><strong>Languages</strong></td>
-    <td>
+    <td width="22%" valign="middle">
+      <br/>
+      <strong>Languages</strong>
+      <br/><br/>
+    </td>
+    <td valign="middle">
+      <br/>
       <img src="https://skillicons.dev/icons?i=python,ts,java,kotlin&perline=4" alt="Languages" />
-      <br/>Python · TypeScript · Java · Kotlin
+      <br/>
+      <code>Python</code> · <code>TypeScript</code> · <code>Java</code> · <code>Kotlin</code>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td valign="middle"><strong>AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/Agentic_Systems-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/Voice_AI-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/Graph_RAG-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/Evals-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
+    <td valign="middle">
+      <br/>
+      <strong>AI</strong>
+      <br/><br/>
+    </td>
+    <td valign="middle">
+      <br/>
+      <code>LLMs</code> · <code>Agentic systems</code> · <code>Voice AI</code> · <code>Graph RAG</code> · <code>Evals</code> · <code>RAG</code>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td valign="middle"><strong>Backend</strong></td>
-    <td>
+    <td valign="middle">
+      <br/>
+      <strong>Backend</strong>
+      <br/><br/>
+    </td>
+    <td valign="middle">
+      <br/>
       <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis&perline=4" alt="Backend" />
-      <br/>Node.js · FastAPI · Spring Boot · PostgreSQL · Redis · Event-driven · The usual rest
+      <br/>
+      <code>Node.js</code> · <code>FastAPI</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Redis</code> · <code>Event-driven</code>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td valign="middle"><strong>Cloud</strong></td>
-    <td>
+    <td valign="middle">
+      <br/>
+      <strong>Cloud</strong>
+      <br/><br/>
+    </td>
+    <td valign="middle">
+      <br/>
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform&perline=4" alt="Cloud" />
-      <br/>AWS · Docker · Kubernetes · Terraform · The usual rest
+      <br/>
+      <code>AWS</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Terraform</code>
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <td valign="middle"><strong>Frontend</strong></td>
-    <td>
+    <td valign="middle">
+      <br/>
+      <strong>Frontend</strong>
+      <br/><br/>
+    </td>
+    <td valign="middle">
+      <br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs&perline=2" alt="Frontend" />
+      <br/>
+      <code>React</code> · <code>Next.js</code>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -218,27 +294,31 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 ## Writing
 
-I write about AI engineering, platforms, and building in public on [Substack](https://jrnull.substack.com) ([@vrabhi](https://substack.com/@vrabhi)).
+I write about AI engineering, platforms, and building in public on <a href="https://jrnull.substack.com">Substack</a> (<a href="https://substack.com/@vrabhi">@vrabhi</a>).
+
+### Recent articles
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://jrnull.substack.com/p/microsoft-killed-claude-code-for">
-        <img src="https://substackcdn.com/image/fetch/$s_!et78!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d28bc7e-dc5f-454a-be96-5f0fe6bbd18d_1848x1228.png" alt="Microsoft Claude Code post" />
+        <img height="160" src="https://substackcdn.com/image/fetch/$s_!et78!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d28bc7e-dc5f-454a-be96-5f0fe6bbd18d_1848x1228.png" alt="Microsoft Claude Code post" />
       </a>
-      <br/>
+      <p></p>
       <strong><a href="https://jrnull.substack.com/p/microsoft-killed-claude-code-for">Microsoft killed Claude Code for 100,000 engineers</a></strong>
-      <br/>
+      <br/><br/>
       The token bills are the symptom. The real problem is coordination.
+      <br/><br/>
     </td>
     <td width="50%" valign="top">
       <a href="https://jrnull.substack.com/p/architecting-llm-systems-for-scale">
-        <img src="https://substackcdn.com/image/fetch/$s_!tS-8!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde104ca-b227-4520-8ef0-9a4b8c7b767c_978x756.png" alt="Architecting LLM systems post" />
+        <img height="160" src="https://substackcdn.com/image/fetch/$s_!tS-8!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde104ca-b227-4520-8ef0-9a4b8c7b767c_978x756.png" alt="Architecting LLM systems post" />
       </a>
-      <br/>
+      <p></p>
       <strong><a href="https://jrnull.substack.com/p/architecting-llm-systems-for-scale">Architecting LLM systems for scale</a></strong>
-      <br/>
+      <br/><br/>
       Selective routing and LLM–SLM collaboration for cost-efficient AI infra.
+      <br/><br/>
     </td>
   </tr>
 </table>
