@@ -26,39 +26,47 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%"><br />
       <h3>3M+</h3>
       <p>users on products I founded</p>
+      <br />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%"><br />
       <h3>40+</h3>
       <p>engineers led as Staff at Interface.AI</p>
+      <br />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%"><br />
       <h3>98%+</h3>
       <p>Graph RAG accuracy for banking</p>
+      <br />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%"><br />
       <h3>5×</h3>
       <p>eng productivity via agentic product engineering</p>
+      <br />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center"><br />
       <h3>GenAI Kindle</h3>
       <p>led first-gen AI-enabled Kindle at Amazon</p>
+      <br />
     </td>
-    <td align="center">
+    <td align="center"><br />
       <h3>>99.99%</h3>
       <p>uptime on voice AI interview platform</p>
+      <br />
     </td>
-    <td align="center">
+    <td align="center"><br />
       <h3>Amazon Fresh</h3>
       <p>led fraud & abuse systems for stores</p>
+      <br />
     </td>
-    <td align="center">
+    <td align="center"><br />
       <h3>Featured on</h3>
       <p>Gizmodo · Lifehacker · XDA</p>
+      <br />
     </td>
   </tr>
 </table>
@@ -70,52 +78,62 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 <table width="100%">
   <tr>
     <td>
+      <br />
       <img src="./assets/logos/dobr.png" height="16" alt="" />
       <strong><a href="https://dobr.ai">Dobr.AI</a></strong>
       · Founder &amp; CTO
       · <code>2024 – Present</code>
       <br />
       Voice-based AI technical interviewing. Built cloud-native AWS microservices for thousands of concurrent interviews, an in-house agent orchestration framework (~1.5s latency), and cheating-detection via behavioral signals and validation agents.
+      <br /><br />
     </td>
   </tr>
   <tr>
     <td>
+      <br />
       <img src="./assets/logos/interface.png" height="16" alt="" />
       <strong><a href="https://interface.ai">Interface.AI</a></strong>
       · Staff Software Engineer
       · <code>2025 – 2026</code>
       <br />
       Technical leader for a 40+ person India engineering org. Owned feasibility → POC → pilot → production (90%+ on-time, 70%+ pilot-to-production). Built Auto Product Engineering (agentic feature delivery, 5× productivity) and a Graph RAG knowledge platform for banking (98%+ accuracy).
+      <br /><br />
     </td>
   </tr>
   <tr>
     <td>
+      <br />
       <img src="./assets/logos/amazon.png" height="16" alt="" />
       <strong>Amazon</strong>
       · Tech Lead
       · <code>2020 – 2024</code>
       <br />
       Led GenAI workflows for the first-generation GenAI-enabled Kindle (LLMs, agents, safety). Built fraud &amp; abuse prevention for AWS self-checkout / Amazon Fresh. Automated receipt ground-truthing for Amazon GO (50% less associate effort, 3 days → 1 day). Led teams of 4–5 SDEs.
+      <br /><br />
     </td>
   </tr>
   <tr>
     <td>
+      <br />
       <img src="./assets/logos/blurbsh.png" height="16" alt="" />
       <strong>Blurbsh</strong>
       · Founding Engineer
       · <code>2019</code>
       <br />
       First engineer. Mobile apps and backend routing redesign (&gt;30% latency reduction).
+      <br /><br />
     </td>
   </tr>
   <tr>
     <td>
+      <br />
       <img src="./assets/logos/inpen.png" height="16" alt="" />
       <strong>Inpen</strong>
       · Founder
       · <code>2014 – 2017</code>
       <br />
       Solo-built Android utilities to <strong>3M+</strong> users. Featured on Gizmodo, Lifehacker, and XDA. Recognized at IIT Madras and IIT Mandi.
+      <br /><br />
     </td>
   </tr>
 </table>
