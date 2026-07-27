@@ -34,7 +34,7 @@ Technical leader of a 40+ person engineering org. Led architecture and execution
 **Tech Lead** · Amazon *(2020–2024)*  
 Led GenAI workflows for the first-generation GenAI-enabled Kindle device — LLMs, agentic workflows, content creation, and safety guardrails. Led a comprehensive fraud and abuse prevention suite for AWS's self-checkout service, addressing retail shrinkage (a $94.5B industry loss). Led the automated receipt ground-truthing project for Amazon GO, reducing associate effort by 50% and metric turnaround from 3 days to 1 day. Led teams of 4–5 SDEs across these initiatives.
 
-**Founding Engineer** · BlurbsH *(2019)*  
+**Founding Engineer** · Blurbsh *(2019)*  
 First engineer. Built and optimized mobile apps with modern architectural patterns. Redesigned backend message routing to reduce latency by >30%.
 
 **Founder** · Inpen *(2014–2017)*  
