@@ -26,39 +26,95 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
-      <h3>3M+</h3>
-      <p>users on products I founded</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/3m.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        users on products I founded
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>40+</h3>
-      <p>engineers led as Staff at Interface.AI</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/40.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        engineers led as Staff at Interface.AI
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>98%+</h3>
-      <p>Graph RAG accuracy for banking</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/98.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        Graph RAG accuracy for banking
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>5×</h3>
-      <p>eng productivity via agentic product engineering</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/5x.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        eng productivity via agentic product engineering
+        <br />
+        &nbsp;
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
-      <h3>GenAI Kindle</h3>
-      <p>led first-gen AI-enabled Kindle at Amazon</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/kindle.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        led first-gen AI-enabled Kindle at Amazon
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>&gt;99.99%</h3>
-      <p>uptime on voice AI interview platform</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/uptime.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        uptime on voice AI interview platform
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>Amazon Fresh</h3>
-      <p>led fraud &amp; abuse systems for stores</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/fresh.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        led fraud &amp; abuse systems for stores
+        <br />
+        &nbsp;
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>Featured on</h3>
-      <p>Gizmodo · Lifehacker · XDA</p>
+    <td align="center" width="25%" valign="middle">
+      <p>
+        &nbsp;<br />
+        <img src="./assets/impact/featured.svg" height="36" alt="" />
+        <br />
+        &nbsp;<br />
+        Gizmodo · Lifehacker · XDA
+        <br />
+        &nbsp;
+      </p>
     </td>
   </tr>
 </table>
