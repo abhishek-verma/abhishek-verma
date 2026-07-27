@@ -57,7 +57,7 @@ I've built products from zero to millions of users, led AI systems at Amazon sca
       <p>led fraud & abuse systems for stores</p>
     </td>
     <td align="center">
-      <h3>Press</h3>
+      <h3>Featured on</h3>
       <p>Gizmodo · Lifehacker · XDA</p>
     </td>
   </tr>
