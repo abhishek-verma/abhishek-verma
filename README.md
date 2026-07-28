@@ -6,7 +6,7 @@
 
 Bengaluru, India
 
-[LinkedIn](https://linkedin.com/in/abhi-vrma) · [X](https://x.com/vrma_abhi) · [Blog](https://substack.com/@vrabhi) · [Stack Overflow](https://stackoverflow.com/users/3739837) · [Email](mailto:inpen.abhi@gmail.com)
+[Portfolio](https://abhishek-verma.github.io/) · [LinkedIn](https://linkedin.com/in/abhi-vrma) · [X](https://x.com/vrma_abhi) · [Blog](https://substack.com/@vrabhi) · [Stack Overflow](https://stackoverflow.com/users/3739837) · [Email](mailto:inpen.abhi@gmail.com)
 
 </div>
 
